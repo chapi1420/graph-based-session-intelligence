@@ -1,0 +1,10 @@
+event_name,category
+Login,Authentication
+Logout,Authentication
+Load_Dashboard,Navigation
+Filter_By_Region,Analysis_Setup
+Run_Tool_A,Data_Processing
+Run_Tool_B,Data_Processing
+Run_Tool_C,Data_Processing
+View_Tool_Output,Analysis_Review
+Export_Data,Data_Output
